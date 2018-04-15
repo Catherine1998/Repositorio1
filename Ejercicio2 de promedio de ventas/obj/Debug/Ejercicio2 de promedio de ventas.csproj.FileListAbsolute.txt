@@ -1,0 +1,10 @@
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\bin\Debug\Ejercicio2 de promedio de ventas.exe.config
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\bin\Debug\Ejercicio2 de promedio de ventas.exe
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\bin\Debug\Ejercicio2 de promedio de ventas.pdb
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\obj\Debug\Ejercicio2 de promedio de ventas.csprojResolveAssemblyReference.cache
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\obj\Debug\Ejercicio2_de_promedio_de_ventas.Form1.resources
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\obj\Debug\Ejercicio2_de_promedio_de_ventas.Properties.Resources.resources
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\obj\Debug\Ejercicio2 de promedio de ventas.csproj.GenerateResource.Cache
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\obj\Debug\Ejercicio2 de promedio de ventas.exe
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\obj\Debug\Ejercicio2 de promedio de ventas.pdb
+c:\users\catherinev\documents\visual studio 2017\Projects\Ejercicio2 de promedio de ventas\Ejercicio2 de promedio de ventas\obj\Debug\Ejercicio2_de_promedio_de_ventas.Form2.resources
